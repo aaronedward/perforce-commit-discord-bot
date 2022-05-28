@@ -1,6 +1,6 @@
 # Perforce Commit Logger Discord Bot 🗒️ ✏️
 
-[![Build Status](https://travis-ci.org/JamesIves/perforce-commit-discord-bot.svg?branch=master)](https://travis-ci.org/JamesIves/perforce-commit-discord-bot) [![Issues](https://img.shields.io/github/issues/JamesIves/perforce-commit-discord-bot.svg)](https://github.com/JamesIves/perforce-commit-discord-bot/issues)
+[![Python application](https://github.com/aaronedward/perforce-commit-discord-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/aaronedward/perforce-commit-discord-bot/actions/workflows/python-app.yml)
 
 With this bot you're able to keep track of commits made to a [Perforce version control](https://www.perforce.com/) server within a [Discord](https://discordapp.com/) channel. 
 
