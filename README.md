@@ -23,9 +23,9 @@ Every thirty seconds the bot runs a Perforce command in the terminal that checks
 
 The installation will require you to enter a number of settings as environment variables. Below you'll find an explanation of each.
 
-| Key  | Value Information | Required |
-| ------------- | ------------- | ------------- |
-| `DISCORD_WEBHOOK_URL`  | The [Webhook URL](https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks) for the Discord channel you'd like the bot to post its messages to. | **Yes** |
+| Key                   | Value Information                                                                                                                                                   | Required |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| `DISCORD_WEBHOOK_URL` | The [Webhook URL](https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks) for the Discord channel you'd like the bot to post its messages to. | **Yes**  |
 
 
 ![Example](assets/readme.png)
